@@ -1,5 +1,11 @@
 # AI_horse_prediction_2
 
+*******************************
+
+This is a continuation of the previous AI horse prediction project. Jupyter notebook is now used to facilitate performance valuation (by Tensorboard) and model refinement.
+
+*******************************
+
 This AI Horse racing prediction is using a 3-layer Neural Network to predict the finishing position of each horse in a race. The data used to train this model is obtained from the Hong Kong Jockey Club (HKJC). Please note that the author has no relation nor connection of any kind with the HKJC. The model is built and trained by Tensorflow. This project is 100% in Python.
 
 Package: ./saved_model/*: pre-trained model using 50,000 epochs; horse_racing_model4.py: The NN model for horse racing; evaluate_model.py: To evaluate the performance of the model; predict3.py: Predict the results.
