@@ -2,7 +2,7 @@
 
 *******************************
 
-This is a continuation of the previous AI horse prediction project. Jupyter notebook is now used to facilitate performance valuation (by Tensorboard) and model refinement.
+This is a continuation of the previous AI horse prediction project (https://github.com/StevenHo1394/AI_horse_prediction). Jupyter notebook is now used to facilitate performance valuation (by Tensorboard) and model refinement.
 
 *******************************
 
