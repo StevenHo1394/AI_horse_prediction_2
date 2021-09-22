@@ -6,7 +6,7 @@ This is a continuation of the previous AI horse prediction project (https://gith
 
 *******************************
 
-This AI Horse racing prediction is using a 3-layer Neural Network to predict the finishing position of each horse in a race. The data used to train this model is obtained from the Hong Kong Jockey Club (HKJC). Please note that the author has no relation nor connection of any kind with the HKJC. The model is built and trained by Tensorflow. This project is 100% in Python.
+This AI Horse racing prediction is using a 3-layer Neural Network to predict the finishing position of each horse in a race. The data used to train this model is obtained from the Hong Kong Jockey Club (HKJC). The model is built and trained by Tensorflow. 
 
 For the prediction results:
 
