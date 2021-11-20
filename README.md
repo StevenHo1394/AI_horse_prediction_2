@@ -20,7 +20,7 @@ For the prediction results:
       So, we should bet on horses with expected finish positions = 1/2/3 on Win/Place/Quinella/Quinella Place/Trio; 
       and bet on "first four" or "Quartet" for horses with expected finish positions = 1/2/3/4.
       
-Future planning: This is an ongoing project and the model and/or dataset will be updated from time to time. 
+Future planning: This is an ongoing project and the model and/or dataset will be updated from time to time. One possible way is to use reinforcement learning to bet on the results generated from the predictions and find out the bets that maximize the profits.
 
 Disclaimer:
 This model is regarded as an ongoing project of the author's interest and as a demonstration of deep learning usage. The author will not be responsible for any loss of investment that is caused directly/indirectly by this project.
