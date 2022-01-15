@@ -1,6 +1,11 @@
 # AI_horse_prediction_2
 
 *******************************
+(New) Video introduction of the project:
+
+https://vimeo.com/665907700/9f0ece92b4
+
+*******************************
 
 This is a continuation of the previous AI horse prediction project (https://github.com/StevenHo1394/AI_horse_prediction). Jupyter notebook is now used to facilitate performance valuation (by Tensorboard) and model refinement.
 
