@@ -15,7 +15,7 @@ This AI Horse racing prediction is using a N-layer Neural Network to predict the
 
 For the prediction results:
 
-      Expected finishing positions= [ 4  2  2 11  6  4  9  9  4  1 12  5]
+      Expected finishing positions= [ 4  2  5  1  12  4  9  9  4  3 11  5]
       
       The horse number "1" is expected to finish at position "4",
       The horse number "2" is expected to finish at position "2",
