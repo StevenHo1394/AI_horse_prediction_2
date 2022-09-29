@@ -1,9 +1,14 @@
 # AI_horse_prediction_2
 
 *******************************
-(New) Video introduction of the project:
-
+Video introduction of the project:
 https://vimeo.com/665907700/9f0ece92b4
+
+Hyperparameter Tuning (part1):
+https://vimeo.com/666514549?activityReferer=1
+
+Hyperparameter Tuning (part2):
+https://vimeo.com/667085648?activityReferer=1
 
 *******************************
 
