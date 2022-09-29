@@ -24,6 +24,8 @@ For the prediction results:
       
       The horse number "1" is expected to finish at position "4",
       The horse number "2" is expected to finish at position "2",
+      The horse number "3" is expected to finish at position "5",
+      The horse number "4" is expected to finish at position "1", (i.e. won the race)
       ...
       The horse number "12" is expected to finish at position "5".
       
